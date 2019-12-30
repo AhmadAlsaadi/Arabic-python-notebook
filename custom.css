@@ -1,10 +1,11 @@
-@import url('http://fonts.googleapis.com/css?family=Amiri|Lalezar');
+@import url('https://www.fontstatic.com/f=yassin,basim-marah,amiri-quran,b-compset');
 
 .title{
 direction: rtl;
+font-size:60px;
 padding-right: 2cm;
 line-height:10px;
-font-family:Lalezar;
+font-family:yassin;
 
 }
 
@@ -15,7 +16,7 @@ line-height:40px;
 padding-right: 1cm;
 padding-left: 1cm;
 text-align:justify;
-font-family:Amiri;
+font-family:amiri-quran;
 }
 
 .horizontal{
