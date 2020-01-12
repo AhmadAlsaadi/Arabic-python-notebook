@@ -26,4 +26,47 @@ color:#333;
 background-color:#333;
 width:75%;
 }
+.jupyter-widgets{
+    font-size:20px;
+    direction:rtl;
+    margin-right:25px;
+    font-family:amiri-quran;
+        
+}
+.widget-radio-box input{
+    float:right;
+    direction:ltr;
+    margin: 0 calc( var(--jp-widgets-input-padding) * 2 ) 0 10px;
+    text-align:right;
+    height: 30px;
+}
+.widget-radio{
+    flex-direction: column;
+    width:unset;
+    
+}
+.widget-label{  
+    font-family:amiri-quran;
+    font-size:18px;
+    height: 40px;
+}
 
+.widget-radio-box label {
+    font-size:18px;
+    height: 30px;
+}
+
+.true-grade{
+    color:green;
+}
+.false-grade{
+    color:red;
+}
+label:lang(en){
+    direction:ltr;
+    text-align:right;
+}
+.s{
+    line-height:unset;
+    height:unset;
+}
