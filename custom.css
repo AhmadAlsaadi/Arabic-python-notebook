@@ -1,11 +1,12 @@
-@import url('https://www.fontstatic.com/f=yassin,basim-marah,amiri-quran,b-compset');
+@import url('https://www.fontstatic.com/f=yassin,amiri-quran,basim-marah,b-compset');
+
 
 .title{
 direction: rtl;
-font-size:60px;
+font-size:100px;
 padding-right: 2cm;
 line-height:10px;
-font-family:yassin;
+font-family:basim-marah;
 
 }
 
@@ -69,4 +70,7 @@ label:lang(en){
 .s{
     line-height:unset;
     height:unset;
+}
+.CodeMirror-wrap {
+    font-size:16px;
 }
