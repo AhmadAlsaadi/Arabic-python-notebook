@@ -33,7 +33,7 @@
     <ol>
         أولا: فتح الكتاب عن طريق موقع binder
         <br>
-        <li>قم بزيارة موقع <a href="mybinder.org">mybinder.org</a></li>
+        <li>قم بزيارة موقع <a href="https://mybinder.org/">mybinder.org</a></li>
         <li>قم بنسخ رابط الكتاب من موقع github ولصقة في خانة العنوان ثم اضغط على زر launch  كما في الشكل التالي:
             <img src="img/mybinder2.PNG"></li>
         <li>اضغط بزر الفأرة نقرا مزدوجا على الملف introduction.ipynb لفتح الكتاب</li>
