@@ -33,12 +33,15 @@
     </ul>
     <ol>
         أولا: فتح الكتاب عن طريق موقع binder
+        <br>
         <li>قم بزيارة موقع <a href="mybinder.org">mybinder.org</a></li>
-        <li>قم بنسخ رابط الكتاب في موقع github ولصقة في خانة العنوان كما في الشكل التالي:
-            <img src="mybinder.PNG"></li>
-        <li>قم بالضغط على زر lunnch كما في الشكل التالي:
-            <img src="mybinder2.PNG"></li>
-        <li></li>
+        <li>قم بنسخ رابط الكتاب من موقع github ولصقة في خانة العنوان كما في الشكل التالي:
+            <img src="img/mybinder.PNG"></li>
+        <li>قم بالضغط على زر launch كما في الشكل التالي:
+            <img src="img/mybinder2.PNG"></li>
+        <li>لاظهار ملف الكتاب بالشكل المطلوب قم بالضغط على اول خليه في الكتاب ومن ثم ضغط زر run من شريط الاوامر في jupyter.<br>
+            <img src="img/cmd4.png">
+         </li>
     </ol>
     <ol>
         ثانيا: فتح الكتاب عن طريق التسحيل في موقع gitpod.io binder
