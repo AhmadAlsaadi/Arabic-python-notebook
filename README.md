@@ -35,7 +35,7 @@
         <br>
         <li>قم بزيارة موقع <a href="mybinder.org">mybinder.org</a></li>
         <li>قم بنسخ رابط الكتاب من موقع github ولصقة في خانة العنوان ثم اضغط على زر launch  كما في الشكل التالي:
-            <img src="img/mybinder.PNG"></li>
+            <img src="img/mybinder2.PNG"></li>
         <li>اضغط بزر الفأرة نقرا مزدوجا على الملف introduction.ipynb لفتح الكتاب</li>
         <li>لاظهار ملف الكتاب بالشكل المطلوب قم بالضغط على اول خليه في الكتاب ومن ثم ضغط زر run من شريط الاوامر في jupyter.<br>
             <img src="img/cmd4.png">
