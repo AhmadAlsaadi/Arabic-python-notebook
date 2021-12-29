@@ -74,3 +74,8 @@ label:lang(en){
 .CodeMirror-wrap {
     font-size:16px;
 }
+
+.basic_table{
+    font-size:20px;
+    color:"green";
+}
