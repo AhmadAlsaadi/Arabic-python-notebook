@@ -1,13 +1,81 @@
 @import url('https://www.fontstatic.com/f=yassin,amiri-quran,basim-marah,b-compset');
 
 
+@font-face {
+  font-family: Arslan;
+  src: url(Arslan.ttf);
+}
+
 .title{
 direction: rtl;
 font-size:100px;
 padding-right: 15px;
 line-height:10px;
 font-family:basim-marah;
+}
 
+div.text_cell pre.CodeMirror-line {
+direction:rtl;
+font-size:20px;
+color:Blue;
+line-height:40px;
+padding-right: 1cm;
+padding-left: 1cm;
+text-align:justify;
+font-family:amiri-quran;
+}
+.rendered_html {
+direction:rtl;
+font-size:20px;
+line-height:40px;
+padding-right: 1cm;
+padding-left: 1cm;
+text-align:justify;
+font-family:amiri-quran;
+}
+
+.rendered_html p {
+direction:rtl;
+font-size:20px;
+line-height:40px;
+padding-right: 1cm;
+padding-left: 1cm;
+text-align:justify;
+font-family:amiri-quran;
+}
+
+.rendered_html h1{
+direction: rtl;
+font-size:200%;
+text-align:center;
+padding-right: 55px;
+font-family:Arslan;
+}
+
+.rendered_html h2{
+direction: rtl;
+font-size:171%;
+padding-right: 55px;
+line-height:10px;
+font-family:Arslan;
+}
+
+.rendered_html h3{
+direction: rtl;
+font-size:141%;
+padding-right: 55px;
+line-height:10px;
+font-family:Arslan;
+}
+
+.rendered_html ul {
+    list-style-type: none;
+}
+
+.rendered_html ul li:before {
+  content: '-';
+  position: absolute;
+  margin-right: -10px;
 }
 
 .arabic{
