@@ -147,3 +147,6 @@ label:lang(en){
     font-size:20px;
     color:"green";
 }
+ol {
+    margin-right:25px;
+}
