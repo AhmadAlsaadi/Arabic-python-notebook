@@ -150,3 +150,16 @@ label:lang(en){
 ol {
     margin-right:25px;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 2px;
+  padding: 2px;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}
