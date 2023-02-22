@@ -1,0 +1,36 @@
+@import url('https://www.fontstatic.com/f=yassin,amiri-quran,basim-marah,b-compset');
+@font-face {
+    font-family: Arslan;
+    src: url(../../Arslan.ttf);
+  }
+
+body{
+    width:800px;
+    background-color: lightgrey;
+    border: 1px solid black;
+    margin:20px auto auto;
+    direction:rtl;
+    font-family:"amiri-quran";
+}
+div{
+    margin:auto
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: "Arslan";
+    font-weight: bold;
+}
+img.coverpage{
+    width:100%;
+    height:100%;
+}
+.container{
+    display:grid;
+    grid-template-columns:  200px auto;
+    grid-gap:0px;
+}
+.content_table{
+    background-color: rgb(175, 186, 197);
+    margin:0px;
+}
