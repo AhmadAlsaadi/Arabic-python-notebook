@@ -72,3 +72,16 @@ ol.text{
     text-align: justify;
     font-size: 20px;
 }
+.my-repl{
+    direction:ltr;
+    margin:20px 40px 0px 40px;
+}
+
+.py-repl-editor{
+    display:grid;
+    grid-template-columns: auto 1px 40px;
+}
+button{
+    height: 30px;
+    margin:auto;
+}
