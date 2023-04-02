@@ -85,3 +85,6 @@ button{
     height: 30px;
     margin:auto;
 }
+.cm-scroller{
+    overflow: hidden;
+}
