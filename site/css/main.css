@@ -80,11 +80,12 @@ ol.text{
 .py-repl-editor{
     display:grid;
     grid-template-columns: auto 1px 40px;
+    background-color:rgba(10, 6, 247, 0.007)
 }
 button{
     height: 30px;
     margin:auto;
 }
-.cm-scroller{
+.ͼ1 .cm-scroller{
     overflow: hidden;
 }
