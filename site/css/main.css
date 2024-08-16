@@ -92,3 +92,9 @@ button{
 .footer{
     margin: 100px;
 }
+table {
+    background-color: rgba(150, 212, 212, 0.4);
+}
+tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+}
