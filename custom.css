@@ -3,15 +3,15 @@
 
 @font-face {
   font-family: Arslan;
-  src: url(Arslan.ttf);
+  src: url("./Arslan.ttf");
 }
 
 .title{
 direction: rtl;
-font-size:100px;
+font-size:50px;
 padding-right: 15px;
 line-height:10px;
-font-family:basim-marah;
+font-family:Arslan;
 }
 
 div.text_cell pre.CodeMirror-line {
@@ -24,7 +24,7 @@ padding-left: 1cm;
 text-align:justify;
 font-family:amiri-quran;
 }
-.rendered_html {
+.jp-RenderedHTMLCommon {
 direction:rtl;
 font-size:20px;
 line-height:40px;
@@ -44,7 +44,7 @@ text-align:justify;
 font-family:amiri-quran;
 }
 
-.rendered_html h1{
+.jp-RenderedHTMLCommon h1{
 direction: rtl;
 font-size:200%;
 text-align:center;
@@ -52,7 +52,7 @@ padding-right: 55px;
 font-family:Arslan;
 }
 
-.rendered_html h2{
+.jp-RenderedHTMLCommon h2{
 direction: rtl;
 font-size:171%;
 padding-right: 55px;
@@ -60,7 +60,7 @@ line-height:10px;
 font-family:Arslan;
 }
 
-.rendered_html h3{
+.jp-RenderedHTMLCommon h3{
 direction: rtl;
 font-size:141%;
 padding-right: 55px;
@@ -68,11 +68,11 @@ line-height:10px;
 font-family:Arslan;
 }
 
-.rendered_html ul {
+.jp-RenderedHTMLCommon ul {
     list-style-type: none;
 }
 
-.rendered_html ul li:before {
+.jp-RenderedHTMLCommon ul li:before {
   content: '-';
   position: absolute;
   margin-right: -10px;
